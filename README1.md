@@ -157,3 +157,8 @@ If the project includes a database initialization script, run it to load initial
 
 # 6. Contributing
 # 7. Team
+1.**Vasundhara H.S**
+2.**Lakshmishee K**
+3.**Swati**
+4.**Sneha S**
+
